@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings/
+target/
+/test-out/
+test-output
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Compiled class file
+
+**/*.class
